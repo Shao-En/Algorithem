@@ -1,2 +1,1 @@
-# Algorithem
-C++
+# Array & String
